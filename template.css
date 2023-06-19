@@ -22,11 +22,11 @@ nav {
 	text-align:right;
 	margin-right:25px;
 	}
-header nav ul {
+header nav {
 	list-style:none;
 	float:right;
 	}	 
-nav ul li {
+nav li {
 	font-family:Raleway;
 	float:left;
 	color: #d10606
@@ -35,9 +35,9 @@ nav ul li {
 	margin-right: 25px;
 	letter-spacing: 2px;
 }
-ul li a{
+li a{
 	color: #d10606; 
 }
-ul li:hover a {
+li:hover a {
 	color: #0000000:
 } 
