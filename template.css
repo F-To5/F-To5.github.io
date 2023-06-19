@@ -15,7 +15,17 @@ header {
 	margin-top: 15px;
 	margin-left: 25px;
 	letter-spacing: 4px;
-}
+	}	
+nav {
+	float: right;
+	width:50%;
+	text-align:right;
+	margin-right:25px;
+	}
+header nav ul {
+	list-style:none;
+	float:right;
+	}	 
 nav ul li {
 	font-family:Raleway;
 	float:left;
