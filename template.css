@@ -31,12 +31,13 @@ nav ul{
 	float:left;
 	color: #d10606
 	font-size:14 px
-	text-align:le;
+	text-align:left;
 	margin-right: 25px;
 	letter-spacing: 2px;
 }
 ul a{
 	color: #d10606; 
+	text-decoration: none;
 }
 ul:hover a {
 	color: #0000000:
