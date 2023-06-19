@@ -5,7 +5,7 @@ header {
 	background-color: #ffffff;
 	border-bottom: 1px solid #d10606;
 }
-.logo {
+.title {
 	color: #d10606;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -16,3 +16,18 @@ header {
 	margin-left: 25px;
 	letter-spacing: 4px;
 }
+nav ul li {
+	font-family:Raleway;
+	float:left;
+	color: #d10606
+	font-size:14 px
+	text-align:le;
+	margin-right: 25px;
+	letter-spacing: 2px;
+}
+ul li a{
+	color: #d10606; 
+}
+ul li:hover a {
+	color: #0000000:
+} 
